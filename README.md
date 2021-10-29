@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 🎓 I'm an Information Technology Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).\
-🌱 I'm  Web devloper and i like solving  problem of data structure and algorithm.\
+🌱 I like solving  problem of Data structure and Algorithm.\
 ⚡ My hobbies playing cricket ,chess \
 ✉️ You can reach out to me via email at saurabhgupta7997@gmail.com.
 
